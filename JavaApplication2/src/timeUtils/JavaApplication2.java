@@ -21,6 +21,7 @@ public class JavaApplication2 {
         String aika2 = "0:30:00";
         int tulos2 = TimeUtils.timeToSec(aika2);
         System.out.println(aika2+" on "+tulos2);
+        System.out.println("Github toimii!");
     }
     
 }
